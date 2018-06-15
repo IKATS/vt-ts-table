@@ -1,0 +1,9 @@
+{
+    "name": "TsTable",
+    "types": ["ts_list"],
+    "classRef": TsTable,
+    "keyMap": {
+        "click": "Execute action for selected line"
+    },
+    "desc": "Show content of ts_list and permits to visualize each one."
+}
